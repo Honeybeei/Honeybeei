@@ -16,5 +16,26 @@
 ### 42 Projects
 
 - 🔁 [42 Redive](https://github.com/Honeybeei/42-Redive)
+  Parallel universe of 42 common core projects. Re-implementation of the projects for revision.
+
+#### Web & Mobile
+
 - 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)
-- 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science?tab=readme-ov-file)
+  Mobile piscine projects. Flutter will be used to implement the projects.
+- Coming soon projects
+  - swifty_companion
+
+#### Algo & AI & Data
+
+- 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)
+  Recommended course before starting the AI track. Let's learn Python for data science!
+
+- Coming soon projects
+  - piscine data science
+  - ft_linear_regression
+  - dslr
+  - multilayer_perceptron
+
+### Personal Projects
+
+... coming soon! 🚀
