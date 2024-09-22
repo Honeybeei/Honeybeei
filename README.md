@@ -27,6 +27,7 @@
 
 - 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
   *Mobile piscine projects. Flutter will be used to implement the projects.*
+
 - 🚧 Coming soon projects
   - 🛠️ **swifty_companion**
 
