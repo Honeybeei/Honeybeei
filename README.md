@@ -13,6 +13,11 @@
 
 ## 🌟 Repositories
 
+### Dev Notes
+
+- 🦀 [Rust Dev Note](https://github.com/Honeybeei/rust-dev-note)
+  My personal notes on Rust. Maybe it will be helpful for someone who is learning Rust.
+
 ### 42 Projects
 
 - 🔁 [42 Redive](https://github.com/Honeybeei/42-Redive)
