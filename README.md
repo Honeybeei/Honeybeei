@@ -21,6 +21,9 @@
 - 🐍 [Python Dev Note](https://github.com/Honeybeei/python-dev-note)  
   *Revised Python notes. When I forget something, I can quickly check it out. It will be a helpful cheat sheet.*
 
+- ⚛ [React Dev Note](https://github.com/Honeybeei/react-dev-note)  
+  *React notes. It's not for every topic, but the essential ones and for the ones I often forget.*
+
 ### 42 Projects
 
 - 🔁 [42 Redive](https://github.com/Honeybeei/42-Redive)  
@@ -30,6 +33,7 @@
 
 - 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
   *Mobile piscine projects. Flutter will be used to implement the projects.*
+  > Currently, I'm not working on this project. After finishing React and Redux, I will start this project with React Native.
 
 - 🚧 Coming soon projects
   - 🛠️ **swifty_companion**
