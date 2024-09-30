@@ -15,11 +15,11 @@
 
 ### Dev Notes
 
-- 🦀 [Rust Dev Note](https://github.com/Honeybeei/rust-dev-note)  
-  *My personal notes on Rust. Maybe it will be helpful for someone who is learning Rust.*
+- 🦀 [Rust Dev Note](https://github.com/Honeybeei/rust-dev-note)
+    *My personal notes on Rust. Maybe it will be helpful for someone who is learning Rust.*
 
 - 🐍 [Python Dev Note](https://github.com/Honeybeei/python-dev-note)
-  *Revised Python notes. When I forget something, I can quickly check it out. It will be a helpful cheat sheet.*
+    *Revised Python notes. When I forget something, I can quickly check it out. It will be a helpful cheat sheet.*
 
 ### 42 Projects
 
