@@ -15,6 +15,9 @@
 
 ### Dev Notes
 
+- 🪨 [C and C++ Dev Note](git@github.com:Honeybeei/c-cpp-dev-note.git)  
+  *Revised C and C++ notes. It will cover from the basics to the advanced topics.*
+
 - 🦀 [Rust Dev Note](https://github.com/Honeybeei/rust-dev-note)  
   *My personal notes on Rust. Maybe it will be helpful for someone who is learning Rust.*
 
@@ -23,6 +26,11 @@
 
 - ⚛ [React Dev Note](https://github.com/Honeybeei/react-dev-note)  
   *React notes. It's not for every topic, but the essential ones and for the ones I often forget.*
+
+- 🗣️ [Language Model Dev Note](https://github.com/Honeybeei/language-model-dev-note)  
+  *Notes on language models. I will handle various topics related to language models.*
+
+---
 
 ### 42 Projects
 
@@ -49,6 +57,10 @@
   - 🤖 **dslr**
   - 🧠 **multilayer_perceptron**
 
+---
+
 ### Personal Projects
 
 ... coming soon! 🚀
+
+---
