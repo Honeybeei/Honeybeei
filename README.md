@@ -15,7 +15,7 @@
 
 ### Dev Notes
 
-- 🪨 [C and C++ Dev Note](git@github.com:Honeybeei/c-cpp-dev-note.git)  
+- 🪨 [C and C++ Dev Note](https://github.com/Honeybeei/c-cpp-dev-note)  
   *Revised C and C++ notes. It will cover from the basics to the advanced topics.*
 
 - 🦀 [Rust Dev Note](https://github.com/Honeybeei/rust-dev-note)  
