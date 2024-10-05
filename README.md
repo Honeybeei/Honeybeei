@@ -28,7 +28,7 @@
   *React notes. It's not for every topic, but the essential ones and for the ones I often forget.*
 
 - 🗣️ [Language Model Dev Note](https://github.com/Honeybeei/language-model-dev-note)  
-  *Notes on language models. I will handle various topics related to language models.*
+  *Notes on language models. I will handle various topics related to language models such as 🦜 LangChain, 📚 RAG, 📝 Prompt Engineering, 🔧 Fine-tuning, 🤖 Agents, etc.*
 
 ---
 
