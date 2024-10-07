@@ -22,7 +22,7 @@
   *My personal notes on Rust. Maybe it will be helpful for someone who is learning Rust.*
 
 - 🐍 [Python Dev Note](https://github.com/Honeybeei/python-dev-note)  
-  *Revised Python notes. When I forget something, I can quickly check it out. It will be a helpful cheat sheet.*
+  *A Comprehensive and user-friendly guide to Python, which covers the basics to the advanced concepts, for quick reference and learning.*
 
 - ⚛ [React Dev Note](https://github.com/Honeybeei/react-dev-note)  
   *React notes. It's not for every topic, but the essential ones and for the ones I often forget.*
@@ -35,7 +35,7 @@
 ### 42 Projects
 
 - 🔁 [42 Redive](https://github.com/Honeybeei/42-Redive)  
-  *Parallel universe of 42 common core projects. Re-implementation of the projects for revision.*
+  *🌌 Parallel universe of my original 42 common core projects, 🔁 revisited and 🛠️ re-engineered with different programming languages if possible.*
 
 #### Web & Mobile
 
