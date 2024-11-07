@@ -66,7 +66,7 @@
 - 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
   *Mobile piscine projects. Flutter will be used to implement the projects.*
 
-- 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)
+- 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)  
   *Recommended course before starting the AI track. Let's learn Python for data science!*
 
 ![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey)
