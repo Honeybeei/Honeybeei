@@ -63,15 +63,13 @@
 
 ![In Process](https://img.shields.io/badge/status-In%20Process-blue)
 
-- 🔁 [42 Redive](https://github.com/Honeybeei/42-Redive)  
-  *🌌 Parallel universe of my original 42 common core projects, 🔁 revisited and 🛠️ re-engineered with different programming languages if possible.*
+- 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
+  *Mobile piscine projects. Flutter will be used to implement the projects.*
+
+- 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)
+  *Recommended course before starting the AI track. Let's learn Python for data science!*
 
 ![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey)
-
-- 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
-  *Mobile piscine projects. Flutter will be used to implement the projects.*\
-- 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)  
-  *Recommended course before starting the AI track. Let's learn Python for data science!*
 
 ![Not Started](https://img.shields.io/badge/status-Not%20Started-yellow)
 
