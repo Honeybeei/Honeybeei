@@ -45,9 +45,6 @@
 - ⚛ [React Dev Note](https://github.com/Honeybeei/react-dev-note)  
   *React notes. It's not for every topic, but the essential ones and for the ones I often forget.*
 
-- 🦀 [Rust Dev Note](https://github.com/Honeybeei/rust-dev-note)  
-  *My personal notes on Rust. Maybe it will be helpful for someone who is learning Rust.*
-
 ![Not Started](https://img.shields.io/badge/status-Not%20Started-yellow)
 
 - 📱 **Flutter Dev Note**
@@ -63,19 +60,20 @@
 
 ![In Process](https://img.shields.io/badge/status-In%20Process-blue)
 
+- 📈 [ft_linear_regression](https://github.com/Honeybeei/42-linear-regression)
+  *A simple linear regression project. It will be implemented in Python.*
+
+![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey)
+
 - 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
   *Mobile piscine projects. Flutter will be used to implement the projects.*
 
 - 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)  
   *Recommended course before starting the AI track. Let's learn Python for data science!*
 
-![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey)
-
 ![Not Started](https://img.shields.io/badge/status-Not%20Started-yellow)
 
 - 🛠️ **swifty_companion**
-- 📊 **piscine data science**
-- 📈 **ft_linear_regression**
 - 🤖 **dslr**
 - 🧠 **multilayer_perceptron**
 
