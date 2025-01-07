@@ -24,12 +24,12 @@
 
 ![Completed](https://img.shields.io/badge/status-Completed-success)  
 
-- ...
+- 📈 [ft_linear_regression](https://github.com/Honeybeei/42-linear-regression)  
+  *A simple linear regression project. It will be implemented in Python.*
 
 ![In Process](https://img.shields.io/badge/status-In%20Process-blue)
 
-- 📈 [ft_linear_regression](https://github.com/Honeybeei/42-linear-regression)  
-  *A simple linear regression project. It will be implemented in Python.*
+- ...
 
 ![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey)
 
