@@ -21,10 +21,8 @@
 <!-- ![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey) -->
 <!-- ![Not Started](https://img.shields.io/badge/status-Not%20Started-yellow) -->
 
-- [Dev Note](https://github.com/Honeybeei/DevNote)
-
-  *📝 Quick reference and conceptual guides on `programming languages` 🖥️, `frameworks` 🌐, `libraries` 📚, and related topics 🔍*
-`
+- [Dev Note](https://github.com/Honeybeei/DevNote)  
+  *📝 Quick reference and conceptual guides on `programming languages` 🖥️, `frameworks` 🌐, `libraries` 📚, and `dev related topics`.*
 
 ### 42 Projects
 
