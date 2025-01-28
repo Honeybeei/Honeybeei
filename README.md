@@ -21,14 +21,17 @@
 <!-- ![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey) -->
 <!-- ![Not Started](https://img.shields.io/badge/status-Not%20Started-yellow) -->
 
-- [Dev Note](https://github.com/Honeybeei/DevNote)  
-  *📝 Quick reference and conceptual guides on `programming languages` 🖥️, `frameworks` 🌐, `libraries` 📚, and `dev related topics`.*
+- [📝 Dev Note](https://github.com/Honeybeei/DevNote)  
+  *Quick reference and conceptual guides on `programming languages` 🖥️, `frameworks` 🌐, `libraries` 📚, and `dev related topics`.*
+
+- [🗣️ Yapping Agents](https://github.com/Honeybeei/yapping-agents)
+  *Persona injected AI agents 🤖 yapping to each other. Uses local resources to run the model*
 
 ### 42 Projects
 
 ![Completed](https://img.shields.io/badge/status-Completed-success)  
 
-- 📈 [ft_linear_regression](https://github.com/Honeybeei/42-linear-regression)  
+- [📈 ft_linear_regression](https://github.com/Honeybeei/42-linear-regression)  
   *A simple linear regression project. It will be implemented in Python.*
 
 ![In Process](https://img.shields.io/badge/status-In%20Process-blue)
@@ -37,10 +40,10 @@
 
 ![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey)
 
-- 📱 [Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
+- [📱 Mobile Piscine](https://github.com/Honeybeei/42-mobile-piscine)  
   *Mobile piscine projects. ReactNative will be used to implement the projects.*
 
-- 🐍 [Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)  
+- [🐍 Python for Data Science](https://github.com/Honeybeei/42-python-for-data-science)  
   *Recommended course before starting the AI track. Let's learn Python for data science!*
 
 ![Not Started](https://img.shields.io/badge/status-Not%20Started-yellow)
