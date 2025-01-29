@@ -24,7 +24,7 @@
 - [📝 Dev Note](https://github.com/Honeybeei/DevNote)  
   *Quick reference and conceptual guides on `programming languages` 🖥️, `frameworks` 🌐, `libraries` 📚, and `dev related topics`.*
 
-- [🗣️ Yapping Agents](https://github.com/Honeybeei/yapping-agents)
+- [🗣️ Yapping Agents](https://github.com/Honeybeei/yapping-agents)  
   *Persona injected AI agents 🤖 yapping to each other. Uses local resources to run the model*
 
 ### 42 Projects
