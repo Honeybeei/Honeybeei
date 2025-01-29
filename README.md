@@ -16,6 +16,7 @@
 
 ## 🌟 Repositories
 
+### 😎 Personal Projects
 <!-- ![Completed](https://img.shields.io/badge/status-Completed-success) -->
 <!-- ![In Process](https://img.shields.io/badge/status-In%20Process-blue) -->
 <!-- ![On Hold](https://img.shields.io/badge/status-On%20Hold-lightgrey) -->
@@ -27,7 +28,7 @@
 - [🗣️ Yapping Agents](https://github.com/Honeybeei/yapping-agents)  
   *Persona injected AI agents 🤖 yapping to each other. Uses local resources to run the model*
 
-### 42 Projects
+### 📚 42 Projects
 
 ![Completed](https://img.shields.io/badge/status-Completed-success)  
 
